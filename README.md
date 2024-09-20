@@ -1,11 +1,11 @@
-# 💫About Me :
-I’m diving into the world of cloud computing,
+# 💫About Me🥇 :
+I’m diving into the world of cloud computing☁️☁️☁️,
  exploring its endless possibilities.
  I’m excited to learn about services,architecture,
  and how to leverage the cloud to solve real-world problems.
- Whether it’s enhancing scalability or optimizing resources,
+ Whether it’s enhancing scalability or optimizing resources💻,
  I’m eager to embrace this technology and contribute
- to innovative solutions.
+ to innovative solutions😄😄.
 
 
 
@@ -21,9 +21,6 @@ I’m diving into the world of cloud computing,
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jaikrishanmahour&icon=0&color=0)](https://visitcount.itsvg.in)
