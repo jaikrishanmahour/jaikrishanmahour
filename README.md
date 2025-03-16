@@ -1,13 +1,10 @@
 # 💫About Me🥇 :
-I’m diving into the world of cloud computing☁️☁️☁️,
- exploring its endless possibilities.
- I’m excited to learn about services,architecture,
- and how to leverage the cloud to solve real-world problems.
- Whether it’s enhancing scalability or optimizing resources💻,
- I’m eager to embrace this technology and contribute
- to innovative solutions😄😄.
-
-
+💻 Computer Science & Programming
+Currently pursuing a Bachelor of Computer Applications (BCA)3rd yr.
+Interested in graphics programming, software development, and creative coding....
+Passionate about blending art and technology to build innovative projects....
+Exploring computer graphics and Artificial intelligence.
+Building interactive and visually rich applications.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/jai-krishan-mahour-b2ab30259) 
