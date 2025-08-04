@@ -1,8 +1,8 @@
 # 💫About Me🥇 :
 💻 Computer Science & Programming
 Currently pursuing a Bachelor of Computer Applications (BCA)3rd yr.
-Interested in graphics programming, software development, and creative coding..
-Passionate about blending art and technology to build innovative projects
+Interested in graphics programming, software development, and creative coding.
+Passionate about blending art and technology to build innovative projects.
 Exploring computer graphics and Artificial intelligence
 Building interactive and visually rich applications.
 
