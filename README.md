@@ -5,7 +5,7 @@ Interested in graphics programming, software development, and creative coding.
 Passionate about blending art and technology to build innovative projects.
 Exploring computer graphics and Artificial intelligence.
 Building interactive and visually rich applications.
-
+.
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/jai-krishan-mahour-b2ab30259) 
 
